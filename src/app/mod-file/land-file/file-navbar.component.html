@@ -1,0 +1,61 @@
+<nav class="nav">
+  <section class="navbar">
+    <ul class="navList-left">
+      <li class="drop-down-toggle">
+        <a [routerLink]="['/home']" routerLinkActive="active" [routerLinkActiveOptions]="{exact:true}">Home</a>
+      </li>
+      <li class="drop-down-toggle">
+        <a [routerLink]="['/file/landfile', data.id]" routerLinkActive="active">{{data.file.fileNumber}}</a>
+      </li>
+      <li class="drop-down-toggle">
+        <a href="" routerLinkActive="active">File</a>
+        <ul class="drop-down">
+          <li>
+            <a href="" >DMS</a>
+          </li>
+          <li>
+            <a href="" >Billing</a>
+          </li>
+        </ul>
+      </li>
+      <li class="drop-down-toggle">
+        <a href="" routerLinkActive="active">Application</a>
+        <ul class="drop-down">
+          <li>
+            <a href="" >Existing Application</a>
+          </li>
+          <li>
+            <a href="" >Add Application</a>
+          </li>
+        </ul>
+      </li>
+      <li class="drop-down-toggle">
+        <a href="" routerLinkActive="active">Billing</a>
+        <ul class="drop-down">
+          <li>
+            <a href="">Fees</a>
+          </li>
+          <li>
+            <a href="" >Ground Rent</a>
+          </li>
+        </ul>
+      </li>
+      <li class="drop-down-toggle">
+        <a [routerLink]="['/home']">Close File</a>
+      </li>
+    </ul>
+
+    <ul class="navList-right">
+      <li>
+        <section class="user-welcome">
+          Welcome <span>JTimothy!</span>
+        </section>
+      </li>
+      <li>
+        <a href="">Log out</a>
+      </li>
+    </ul>
+  </section>
+</nav>
+
+

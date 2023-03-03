@@ -1,0 +1,6 @@
+<div>
+  <app-navbar></app-navbar>
+  <section [routerLink] = "['/file/landfile', data.id]" class="file_list" *ngFor = "let data of fileData">
+    {{data.file.fileNumber}}
+  </section>
+</div>

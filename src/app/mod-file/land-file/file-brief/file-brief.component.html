@@ -1,0 +1,57 @@
+<article class="file-overview">
+  <h1>File Overview</h1>
+  <section>
+    <span>File Brief</span>
+    <span>History</span>
+    <span>Remarks</span>
+  </section>
+
+  <section class="brief">
+    <section>
+      <h1>File Details</h1>
+      <p>
+        <span>File Number</span> <span>{{data.file.fileNumber}}</span>
+      </p>
+      <p>
+        <span>Date Created</span> <span>{{data.file.createDate}}</span>
+      </p>
+      <p>
+        <span>File Status</span> <span>{{data.file.fileCondition}}</span>
+      </p>
+    </section>
+    <section>
+      <h1>File Details</h1>
+      <p>
+        <span>Plot Number</span> <span>{{data.plotInfo.plotNumber}}</span>
+      </p>
+      <p>
+        <span>Plot Address</span> <span>{{data.plotInfo.plotLocationDescription}}</span>
+      </p>
+      <p>
+        <span>Owner's Name</span> <span>{{data.file.applicantName}}</span>
+      </p>
+      <p>
+        <span>Land Use</span> <span>{{data.plotInfo.landUse}}</span>
+      </p>
+    </section>
+
+  </section>
+  <section class="remarks">
+    <section>
+      <h3>File Remarks <span>📋</span></h3>
+      <p *ngFor="let remark of data.remarks.fileRemarks">{{remark}}</p>
+    </section>
+    <section>
+      <h3>Customer Service Remarks</h3>
+      <p *ngFor="let remark of data.remarks.customer">{{remark}}</p>
+    </section>
+  </section>
+  
+  <section class="history">
+    <section>
+      <h3>Users</h3>
+      <h4><span>Modified By</span><span>Modified On</span></h4>
+      <p *ngFor="let user of data.users"><span>{{user.name}}</span><span>{{user.date}}</span></p>
+    </section>
+  </section>
+</article>

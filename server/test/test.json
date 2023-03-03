@@ -1,0 +1,301 @@
+({
+  "personalDetails": {
+    "title": "Mrs",
+    "firstName": "Peace",
+    "middleName": "",
+    "familyName": "Babalola",
+    "gender": "Female",
+    "dateOfBirth": "1987-03-15",
+    "occupation": "",
+    "children": "",
+    "nationality": "Nigeria",
+    "stateOfOrigin": "Kaduna",
+    "originLGA": "Chikun",
+    "status": "Alive",
+    "maritalStatus": "",
+    "religion": "",
+    "education": "",
+    "annualIncomme": "",
+    "IDReferenceNumber": "en222150055654635",
+    "TIN": "hf4484516626822",
+    "phoneNumber": "08064528512",
+    "secondPhoneNumber": ["07099652333"],
+    "fax": "",
+    "email": "peaceblola22@gmail.com",
+    "photo": ""
+  },
+
+  "currentAddress": {
+    "houseNo": "D24",
+    "streetName": "Sultan",
+    "streetExt": "close",
+    "ward": "Ugwan Rimi",
+    "city_Town": "Kaduna",
+    "district": "Ugwan Rimi",
+    "state": "Kaduna",
+    "country": "Nigeria",
+    "PO_PMB": "",
+    "C_O": "",
+    "additionalAddress": ""
+  },
+
+  "remark": "",
+  "createdBy": "5e9ac7f3ad45c70d74a98af6"
+},
+// Entrant Org
+{
+  "organizationDetails": {
+    "organizationType": "Construction",
+    "organizationName": "Betastruct",
+    "RCNumber": "RC215432",
+    "dateOfRegistration": "2007-05-15",
+    "TIN": "ky105001599586",
+    "phoneNumber": "08054851141",
+    "secondPhoneNumber": "",
+    "fax": "",
+    "email": "betastruct@gmail.com"
+  },
+
+  "contactPerson": {
+    "title": "Mr",
+    "firstName": "Benjamin",
+    "middleName": "",
+    "familyName": "James",
+    "gender": "Male",
+    "dateOfBirth": "1987-03-",
+    "phoneNumber": "08077945282",
+    "dateOfBirth": "1992-02-28",
+    "designation": "Managing Director",
+    "IDReferenceNumber": "BS8985855",
+    "nationality": "Nigeria",
+    "photo": ""
+  },
+
+  "currentAddress": {
+    "houseNo": "D24",
+    "streetName": "Sultan",
+    "streetExt": "close",
+    "ward": "Ugwan Rimi",
+    "city_Town": "Kaduna",
+    "district": "Ugwan Rimi",
+    "state": "Kaduna",
+    "country": "Nigeria",
+    "PO_PMB": "",
+    "C_O": "",
+    "additionalAddress": ""
+  },
+
+  "remark": "",
+  "createdBy": "5e9ac7f3ad45c70d74a98af6"
+},
+// Entrant Org Bank
+{
+  "organizationDetails": {
+    "organizationType": "Finance",
+    "organizationName": "United Bank of Africa",
+    "RCNumber": "RC115432",
+    "dateOfRegistration": "2001-07-25",
+    "TIN": "ky105001599586",
+    "phoneNumber": "08054851141",
+    "secondPhoneNumber": "",
+    "fax": "",
+    "email": "ubaloan@gmail.com"
+  },
+
+  "contactPerson": {
+    "title": "Mr",
+    "firstName": "Babajide",
+    "middleName": "",
+    "familyName": "James",
+    "gender": "Male",
+    "dateOfBirth": "1987-03-22",
+    "phoneNumber": "08077945282",
+    "dateOfBirth": "1992-02-28",
+    "designation": "Marketing Manager",
+    "IDReferenceNumber": "BS8985855",
+    "nationality": "Nigeria",
+    "photo": ""
+  },
+
+  "currentAddress": {
+    "houseNo": "D24",
+    "streetName": "Sultan",
+    "streetExt": "close",
+    "ward": "Ugwan Rimi",
+    "city_Town": "Kaduna",
+    "district": "Ugwan Rimi",
+    "state": "Kaduna",
+    "country": "Nigeria",
+    "PO_PMB": "",
+    "C_O": "",
+    "additionalAddress": ""
+  },
+
+  "remark": "",
+  "createdBy": "5e9ac7f3ad45c70d74a98af6"
+},
+// Recertification
+{
+  // Applicant information & Address
+  "applicant": "5e9b537f67fbdc0bacb6cdcb",
+
+  // Other Claimants information & Address
+  "otherClaimants": "",
+
+  // Authorises Rep information & Address
+  "authorisesRep": "",
+  "file": "5e9b15fe48e79123b88002e1",
+  "createdBy": "5e9ac7f3ad45c70d74a98af6",
+  "createdAt": "",
+  "modifiedBy": [
+    {
+      "modifiedAt": "",
+      "modifiedBy": ""
+    }
+  ],
+
+  "applicationDate": "2020-02-23",
+  "signer": "Commissioner",
+  "recertificationDocument": "CofO",
+  "otherCertificatesDocuments": "Offer Letter",
+  "alloteeFullName": "Peace Babalola",
+  "offerCommencementDate": "2006-08-05",
+  "transactionDocuments": "Sale Agreement",
+  "nameOfFormerOwner": "Naomi Musa",
+  "dateOfTransaction": "2005-11-20",
+  "documentOfDemarcationSubmitted": "Survey Plan",
+  "plotNumber": "Q24",
+  "area_DistrictName": "Agbese",
+  "streetName": "Mcdown road",
+  "plotState": "Kogi",
+  "plotLGA": "Lokoja",
+
+  // Plot Information
+  "landUse": "Residential",
+  "purposeOfUse": "Private Residential",
+  "valueOfImprovement": "",
+  "timeForDevelopment_Years": "",
+  "plotSize": 827.364,
+  "plotSizeUnit": "Meters",
+  "plotLocationDescription": "Plot Q24, Mcdown road, Agbese, Lokoja",
+
+  // Payment Information
+  "ReceiptNumber": "KRV98565453e",
+
+  // NB: Fees will be recalculated when the application is created.
+
+  "submittedDocuments": [
+    "applicationForm",
+    "nationalIDCard",
+    "receipt",
+    "TDP",
+    "salesAgreement",
+    "TINCard"
+  ]
+},
+{
+  // Mortgagee Details
+  "mortgagee": "5e9b8f8033b976185c4e739c",
+
+  //  Representative Details
+  "authorisesRep": "",
+  "thirdParty": "5e9b537f67fbdc0bacb6cdcb",
+
+  "applicationDate": "2020-01-25",
+  "signer": "Commisioner",
+
+  //  Mortgage Details
+  "considerationAmount": "2,500,000",
+
+  "file": "5e9b15fe48e79123b88002e1",
+  "createdBy": "5e9ac7f3ad45c70d74a98af6",
+  "createdAt": "",
+  "modifiedBy": [
+    {
+      "modifiedAt": "",
+      "modifiedBy": ""
+    }
+  ],
+
+  "submittedDocuments": [
+    "applicationForm",
+    "nationalIDCard",
+    "receipt",
+    "TINCard",
+    "taxClearanceCertificate"
+  ]
+},
+{
+  "file": "5e9b15fe48e79123b88002e1",
+  "createBy": "5e9ac7f3ad45c70d74a98af6",
+  "remark": "Applicant need to come and submit two copies of passport",
+  "createAt": "",
+  "active": "",
+  "treatedBy": "",
+  "treated": ""
+},
+// File File File File
+{
+  "filePrefix": "KGL",
+  "fileNumber": "010013",
+  "applicantName": "Mrs. Blessing Joel",
+  "existingApplication": true,
+  "applicationDate": "2019-07-11",
+  "existingCofO": false,
+  "offerCofODate": null,
+  "existingOffer": false,
+  "offerDate": null,
+  "phoneNumber": "08060060022",
+  "fileAlias": null,
+  "LGA": "Iyagba East",
+  "batchNo": 1,
+  "rackNo": 1,
+  "currentLocation": "Archive",
+  "fileCondition": "Open",
+  "numberOfPages": 21
+},
+{
+  "filePrefix": "KGL",
+  "fileNumber": "010453",
+  "applicantName": "Mrs. Peace Babalola",
+  "existingApplication": true,
+  "applicationDate": "2020-02-23",
+  "existingCofO": true,
+  "offerCofODate": null,
+  "existingOffer": false,
+  "offerDate": null,
+  "phoneNumber": "08060060122",
+  "fileRemark": { "remark": "Passport not on the application form" },
+  "fileAlias": null,
+  "LGA": "Lokoja",
+  "batchNo": "",
+  "rackNo": "",
+  "currentLocation": "Archive",
+  "fileCondition": "Open",
+  "numberOfPages": 18
+},
+{
+  "filePrefix": "KGL",
+  "fileNumber": "020005",
+  "applicantName": "Mrs. Benjamin Joel",
+  "existingApplication": true,
+  "applicationDate": "2020-06-21",
+  "existingCofO": true,
+  "offerCofODate": "2007-02-25",
+  "existingOffer": false,
+  "offerDate": null,
+  "phoneNumber": "08060060022",
+  "fileAlias": null,
+  "LGA": "Lokoja",
+  "batchNo": 1,
+  "rackNo": 1,
+  "fileRemark": {
+    "user": "5e9ac7f3ad45c70d74a98af6",
+    "remark": "Passport not on the application form"
+  },
+  "currentLocation": "Archive",
+  "fileCondition": "Open",
+  "numberOfPages": 17,
+  "createdBy": "5e9ac7f3ad45c70d74a98af6",
+  "modifiedBy": { "modifiedBy": "5e9ac781ad45c70d74a98af4" }
+})

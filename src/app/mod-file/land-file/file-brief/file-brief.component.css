@@ -1,0 +1,29 @@
+.file-overview {
+  position: relative;
+  display: inline-block;
+  margin: 15px 15px 15px 0;
+  padding: 5px;
+  border: rgb(3, 18, 85) solid 2px;
+  width: 850px;
+  height: 80vh;
+}
+
+.remarks,
+.brief,
+.history {
+  position: relative;
+  display: inline-block;
+  margin: 15px 15px 15px 0;
+  padding: 5px;
+  border: rgb(3, 18, 85) solid 2px;
+  width: 250px;
+  height: 55vh;
+  overflow-y: scroll;
+}
+
+.remarks::-webkit-scrollbar,
+.brief::-webkit-scrollbar,
+.history::-webkit-scrollbar {
+  display: none;
+}
+
